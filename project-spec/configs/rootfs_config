@@ -141,7 +141,7 @@
 #
 # i2c-tools 
 #
-# CONFIG_i2c-tools is not set
+CONFIG_i2c-tools=y
 # CONFIG_i2c-tools-dev is not set
 # CONFIG_i2c-tools-dbg is not set
 # CONFIG_i2c-tools-misc is not set
@@ -698,7 +698,7 @@ CONFIG_openssh-sftp-server=y
 #
 # mc 
 #
-# CONFIG_mc is not set
+CONFIG_mc=y
 # CONFIG_mc-dev is not set
 # CONFIG_mc-helpers-perl is not set
 # CONFIG_mc-helpers-python is not set
@@ -2816,7 +2816,7 @@ CONFIG_packagegroup-core-ssh-dropbear=y
 #
 # python3 
 #
-# CONFIG_python3 is not set
+CONFIG_python3=y
 # CONFIG_python3-smtpd is not set
 # CONFIG_python3-syslog is not set
 # CONFIG_python3-subprocess is not set
@@ -2826,7 +2826,7 @@ CONFIG_packagegroup-core-ssh-dropbear=y
 # CONFIG_python3-fcntl is not set
 # CONFIG_python3-html is not set
 # CONFIG_python3-re is not set
-# CONFIG_python3-core is not set
+CONFIG_python3-core=y
 # CONFIG_python3-distutils is not set
 # CONFIG_python3-man is not set
 # CONFIG_python3-sqlite3-tests is not set
@@ -2852,7 +2852,7 @@ CONFIG_packagegroup-core-ssh-dropbear=y
 # CONFIG_python3-pkgutil is not set
 # CONFIG_python3-idle is not set
 # CONFIG_python3-lang is not set
-# CONFIG_python3-readline is not set
+CONFIG_python3-readline=y
 # CONFIG_python3-reprlib is not set
 # CONFIG_python3-difflib is not set
 # CONFIG_python3-unittest is not set
@@ -2863,7 +2863,7 @@ CONFIG_packagegroup-core-ssh-dropbear=y
 # CONFIG_python3-sqlite3 is not set
 # CONFIG_python3-textutils is not set
 # CONFIG_python3-2to3 is not set
-# CONFIG_libpython3 is not set
+CONFIG_libpython3=y
 # CONFIG_python3-xml is not set
 # CONFIG_python3-threading is not set
 # CONFIG_python3-modules is not set
